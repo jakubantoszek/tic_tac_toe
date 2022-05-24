@@ -1,5 +1,5 @@
 class Game{
-	private var size = 3;
+    private var size = 3;
     private var board = [[Int]]();
     private var players = [Player]();
     private var curPlayer = 0;
